@@ -182,19 +182,8 @@ HTTP/1.1 ステータスコード ステータスメッセージ
     {
       "title": "ショーシャンクの空に",
       "director": "フランク・ダラボン",
-      "published_year": 1995
+      "published_year": "1995"
     }
   ]
 }
 ```
-
-<br>
-
-```json
-{
-  "movie_information": [
-    { "title": "ショーシャンクの空に" },
-    { "director": "フランク・ダラボン" },
-    { "published_year": "1995" }
-  ]
-}
