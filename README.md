@@ -176,9 +176,9 @@ HTTP/1.1 ステータスコード ステータスメッセージ
 
 <br>
 
-```
+```json
 {
-  "movie information": [
+  "movie_information": [
     {
       "title": "ショーシャンクの空に",
       "director": "フランク・ダラボン",
@@ -190,9 +190,9 @@ HTTP/1.1 ステータスコード ステータスメッセージ
 
 <br>
 
-```
+```json
 {
-  "movie information": [
+  "movie_information": [
     { "title": "ショーシャンクの空に" },
     { "director": "フランク・ダラボン" },
     { "published_year": "1995" }
